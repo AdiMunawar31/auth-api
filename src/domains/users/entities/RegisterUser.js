@@ -27,5 +27,4 @@ class RegisterUser {
         }
     }
 }
-
 module.exports = RegisterUser;
